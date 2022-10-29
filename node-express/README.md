@@ -12,6 +12,3 @@
 
 
 Acesse o meu [Certificado Digital](https://cursos.alura.com.br/certificate/081d6a2d-da4f-4647-ac75-0742372bd3fe).
-
-
-
